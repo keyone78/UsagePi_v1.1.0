@@ -7,9 +7,7 @@ line:
 94  smtp_server='smtp.gmail.com'  
 95  sender='YOURMAIL@gmail.com'    
 96  receiver='YOURMAIL@gmail.com' 
-
 97  uPiMail=sender                
-
 98  password='YOUR_PASSWORD'       
 
 
