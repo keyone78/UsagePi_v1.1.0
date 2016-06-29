@@ -2,11 +2,14 @@
 Require user to setup email account, prefer using gmail. If not require to change the smtp_server address.
 Due to security reason is good to sent yourself. 
 Do change the email address
+
 line:  
 94  smtp_server='smtp.gmail.com'  
 95  sender='YOURMAIL@gmail.com'    
 96  receiver='YOURMAIL@gmail.com' 
+
 97  uPiMail=sender                
+
 98  password='YOUR_PASSWORD'       
 
 
